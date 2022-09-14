@@ -1,0 +1,13 @@
+baseURL = 'http://breathtender.github.io'
+languageCode = 'en-us'
+title = 'WildSun.Love'
+theme = 'paper'
+
+[params]
+	twitter = 'WildSunLove'
+	github = 'Breathtender'
+	instagram = 'wildsun.love' 
+	rss = true
+	name = 'Aaron Gabriel Sol'
+	bio = 'A human being'
+
