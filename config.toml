@@ -1,4 +1,4 @@
-baseURL = 'http://breathtender.github.io'
+baseURL = 'https://breathtender.github.io'
 languageCode = 'en-us'
 title = 'WildSun.Love'
 theme = 'paper'
